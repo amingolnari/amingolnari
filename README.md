@@ -1,42 +1,30 @@
-<h1 align="center">Hi I'm Amin Golnari</h1>
-<p align='center'>
-  <a href="#"><img src = "https://visitor-badge.glitch.me/badge?page_id=amingolnari??style=for-the-badge&logo=appveyor"></a>
-</p>
-
 <p align="center">
-  <a href="https://github.com/amingolnari">
-    <img alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="40"/>
-  </a>
   <a href="https://www.linkedin.com/in/amin-golnari/">
-    <img alt="linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/deepmentality/">
-    <img alt="instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="40"/>
-  </a>
-  <a href="https://amingolnari.github.io/">
-    <img alt="website" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" height="40"/>
-  </a>
-  <!--
-  <a>
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amingolnari&show_icons=true&theme=dracula"/>
-  </a>
-  -->
+    <img src="https://img.shields.io/badge/-Amin_Golnari-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amin-golnari/" 
+    </a> 
+    <a href="https://www.instagram.com/deepmentality/">
+    <img src="https://img.shields.io/badge/-DeepMentality-red?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/deepmentality/" 
+    </a>
+    <a href="https://github.com/amingolnari">
+    <img src="https://img.shields.io/badge/-amingolnari-gray?style=flat&logo=GitHub&logoColor=white&link=https://github.com/amingolnari" 
+    </a>
+    <a href="https://twitter.com/Aminglnr">
+    <img src="https://img.shields.io/badge/-Aminglnr-white?style=flat&logo=Twitter&logoColor=blue&link=https://twitter.com/Aminglnr" 
+    </a>
+<h1 align="center">Hi I'm Amin Golnari</h1>
+</p>
+<p align='center'>
+  <a href="#"><img src = "https://visitor-badge.glitch.me/badge?page_id=amingolnari.visitor-badge&left_text=My%20Page%20Visitors"></a>
+</p>
   <h3 align="center">
   Research Interests </h3>
     <p align="center">
       Deep Learning, Machine Vision, Self-driving Cars, Computational Creativity </p>
 </p>
-
-
-
-<!-- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amingolnari&show_icons=true&theme=dracula)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amingolnari)  
-
-![Profile views](https://gpvc.arturio.dev/amingolnari)  
--->
-
-<!--
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amingolnari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amin-golnari/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/deepmentality/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://amingolnari.github.io/)  
--->
+<p align="center">
+<img
+  align="center"
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=amingolnari&count_private=false&show_icons=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=fff0ff00&title_color=a13371&icon_color=ffff7b&text_color=069e8a"
+/>
+</p>
