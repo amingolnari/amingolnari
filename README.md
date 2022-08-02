@@ -16,14 +16,17 @@
   <a href="https://amingolnari.github.io/">
     <img alt="website" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" height="40"/>
   </a>
-  <br />
-  <br />
   <!--
   <a>
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amingolnari&show_icons=true&theme=dracula"/>
   </a>
   -->
+  <h3 align="center">
+  Research Interests </h3>
+    <p align="center">
+      Deep Learning, Machine Vision, Self-driving Cars, Computational Creativity </p>
 </p>
+
 
 
 <!-- 
