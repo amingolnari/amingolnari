@@ -3,27 +3,27 @@
   <a href="#"><img src = "https://visitor-badge.glitch.me/badge?page_id=amingolnari??style=for-the-badge&logo=appveyor"></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/amingolnari">
+    <img alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/amin-golnari/">
+    <img alt="linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/deepmentality/">
+    <img alt="instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="40"/>
+  </a>
+  <a href="https://amingolnari.github.io/">
+    <img alt="website" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" height="40"/>
+  </a>
+  <br />
+  <br />
+  <a>
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amingolnari&show_icons=true&theme=dracula"/>
+  </a>
 </p>
-  <p align="center">
-    <a href="https://github.com/amingolnari">
-      <img alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="40"/>
-    </a>
-    <a href="https://www.linkedin.com/in/amin-golnari/">
-      <img alt="linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="40"/>
-    </a>
-    <a href="https://www.instagram.com/deepmentality/">
-      <img alt="instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="40"/>
-    </a>
-    <a href="https://amingolnari.github.io/">
-      <img alt="website" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" height="40"/>
-    </a>
-    <br />
-    <br />
-    <a>
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amingolnari&show_icons=true&theme=dracula"/>
-    </a>
-  </p>
- 
+
+  
  
 <!-- 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amingolnari&show_icons=true&theme=dracula)  
