@@ -18,13 +18,14 @@
   </a>
   <br />
   <br />
+  <!--
   <a>
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amingolnari&show_icons=true&theme=dracula"/>
   </a>
+  -->
 </p>
 
-  
- 
+
 <!-- 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amingolnari&show_icons=true&theme=dracula)  
 
