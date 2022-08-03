@@ -11,7 +11,8 @@
     <a href="https://twitter.com/Aminglnr">
     <img src="https://img.shields.io/badge/-Aminglnr-white?style=flat&logo=Twitter&logoColor=blue&link=https://twitter.com/Aminglnr" 
     </a>
-<h1 align="center">Hi I'm Amin Golnari</h1>
+<h1 align="center"><a href="https://amingolnari.github.io/">
+  Hi I'm Amin Golnari</h1></a>
 </p>
 <p align='center'>
   <a href="#"><img src = "https://visitor-badge.glitch.me/badge?page_id=amingolnari.visitor-badge&left_text=My%20Page%20Visitors"></a>
