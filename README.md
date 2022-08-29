@@ -21,11 +21,12 @@
   Research Interests </h3>
     <p align="center">
       Deep Learning, Machine Vision, Self-driving Cars, Computational Creativity </p>
-</p>
-<p align="center">
-<img
-  align="center"
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=amingolnari&count_private=false&show_icons=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=fff0ff00&title_color=a13371&icon_color=ffff7b&text_color=069e8a"
-/>
-</p>
+      </p>
+      <!--
+      <p align="center">
+        <img
+             align="center"
+             height="165"
+             src="https://github-readme-stats.vercel.app/api?username=amingolnari&count_private=false&show_icons=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=fff0ff00&title_color=a13371&icon_color=ffff7b&text_color=069e8a"
+             />
+      </p> -->
