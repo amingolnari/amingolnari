@@ -30,3 +30,15 @@
              src="https://github-readme-stats.vercel.app/api?username=amingolnari&count_private=false&show_icons=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=fff0ff00&title_color=a13371&icon_color=ffff7b&text_color=069e8a"
              />
       </p> -->
+
+### Repositories:
+<p>
+  <b>
+    [1] Deep learning course with TensorFlow and Keras (2018) <a href="https://github.com/amingolnari/Deep-Learning-Course">Link</a><br>
+    [2] Image panoramic stitching using OpenCV in CPP, Python, and MATLAB (2018) <a href="https://github.com/amingolnari/Image-Panoramic-Stitching">Link</a><br>
+    [3] Android Image Processing App with OpenCV (2019) <a href="https://github.com/amingolnari/Android-OpenCV">Link</a><br>
+    [4] Implementation of KMeans algorithm from scratch in Python (2021) <a href="https://github.com/amingolnari/KMeans-py">Link</a><br>
+    [5] Implementation of an autoencoder using the recirculation algorithm from scratch (2022) <a href="https://github.com/amingolnari/Learning-Representations-by-Recirculation">Link</a><br>
+    [6] Aparat video viewer bot using Python (2022) <a href="https://github.com/amingolnari/AparatViewerBot">Link</a><br>
+    [7] BTC-USD prediction using TensorFlow Probability compared to other methods (2022) <a href="https://github.com/amingolnari/BTCUSD-PricePrediction">Link</a><br>
+  </b></p>
