@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/amin-golnari/">
     <img src="https://img.shields.io/badge/-Amin_Golnari-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amin-golnari/" 
     </a> 
-    <a href="https://www.instagram.com/deepmentality/">
+    <a href="https://www.instagram.com/GolnariAmin/">
     <img src="https://img.shields.io/badge/-DeepMentality-red?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/deepmentality/" 
     </a>
     <a href="https://github.com/amingolnari">
