@@ -41,6 +41,6 @@
     [5] Implementation of an autoencoder using the recirculation algorithm from scratch (2022) <a href="https://github.com/amingolnari/Learning-Representations-by-Recirculation">Link</a><br>
     [6] Aparat video viewer bot using Python (2022) <a href="https://github.com/amingolnari/AparatViewerBot">Link</a><br>
     [7] Probabilistic Deep Learning and Transfer Learning for Robust Cryptocurrency Price Prediction (2023) <a href="https://github.com/amingolnari/Demo-BTCUSD-PricePred-ProbabilisticDL-TransferLearning">Link</a><br>
-    [8] Adaptive Real-Time Multi-Objective Optimization Using Dynamic Memory Fusion Loss Framework (2024) <a href="https://github.com/amingolnari/Demo-Dynamic-Memory-Fusion-Framework">Link</a><br>
+    [8] Adaptive Real-Time Multi-Loss Function Optimization Using Dynamic Memory Fusion Framework (2024) <a href="https://github.com/amingolnari/Demo-Dynamic-Memory-Fusion-Framework">Link</a><br>
     ...
   </b></p>
