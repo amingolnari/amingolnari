@@ -13,10 +13,10 @@
     </a>
 <h1 align="center"><a href="https://amingolnari.github.io/">
   Hi I'm Amin Golnari</h1></a>
-</p>
+<!-- </p>
 <p align='center'>
   <a href="#"><img src = "https://visitor-badge.glitch.me/badge?page_id=amingolnari.visitor-badge&left_text=My%20Page%20Visitors"></a>
-</p>
+</p> -->
   <h3 align="center">
   Research Interests </h3>
     <p align="center">
