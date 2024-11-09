@@ -27,7 +27,8 @@
     [05] Implementation of KMeans algorithm from scratch in Python (2021) <a href="https://github.com/amingolnari/KMeans-py">Link</a><br>
     [06] Implementation of an autoencoder using the recirculation algorithm from scratch (2022) <a href="https://github.com/amingolnari/Learning-Representations-by-Recirculation">Link</a><br>
     [07] Aparat video viewer bot using Python (2022) <a href="https://github.com/amingolnari/AparatViewerBot">Link</a><br>
-    [08] Probabilistic Deep Learning and Transfer Learning for Robust Cryptocurrency Price Prediction (2023) <a href="https://github.com/amingolnari/Demo-BTCUSD-PricePred-ProbabilisticDL-TransferLearning">Link</a><br>
-    [09] Adaptive Real-Time Multi-Loss Function Optimization Using Dynamic Memory Fusion Framework (2024) <a href="https://github.com/amingolnari/Demo-Dynamic-Memory-Fusion-Framework">Link</a><br>
+    [08] DeepFaceAR: Deep Face Recognition and Displaying Personal Information via Augmented Reality (2020) <a href="https://github.com/amingolnari/DeepFaceAR">Link</a><br>
+    [09] Probabilistic Deep Learning and Transfer Learning for Robust Cryptocurrency Price Prediction (2023) <a href="https://github.com/amingolnari/Demo-BTCUSD-PricePred-ProbabilisticDL-TransferLearning">Link</a><br>
+    [10] Adaptive Real-Time Multi-Loss Function Optimization Using Dynamic Memory Fusion Framework (2024) <a href="https://github.com/amingolnari/Demo-Dynamic-Memory-Fusion-Framework">Link</a><br>
     ...
   </b></p>
