@@ -37,7 +37,7 @@
   An adaptive multi-loss framework that **dynamically reweights losses in real time** using memory of past performance. Applied to medical segmentation but generalizable to any multi-objective task.
 
 - **[Probabilistic Crypto Forecasting (2023)](https://github.com/amingolnari/Demo-BTCUSD-PricePred-ProbabilisticDL-TransferLearning)**  
-  Uncertainty-aware price prediction using transfer learning—showcasing DL robustness in **non-stationary financial time series**.
+  Uncertainty-aware price prediction using transfer learning, showcasing DL robustness in **non-stationary financial time series**.
 
 - **[DeepFaceAR (2020)](https://github.com/amingolnari/DeepFaceAR )**  
   A real-time **deep face recognition system with augmented reality overlay**, combining CNN-based identity verification with AR rendering to display personal information. Demonstrates early mastery of **embedded vision pipelines** and **human-centered AI interfaces**.
