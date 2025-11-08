@@ -47,13 +47,13 @@
 ### **Foundational & Engineering Projects**  
 A selection of earlier implementations reflecting versatility across languages, domains, and abstraction levels:
 
-**[01]** Deep learning course with TensorFlow and Keras (2018) — [Link](https://github.com/amingolnari/Deep-Learning-Course )  
-**[02]** Image panoramic stitching using OpenCV in C++, Python, and MATLAB (2018) — [Link](https://github.com/amingolnari/Image-Panoramic-Stitching )  
-**[03]** Android Image Processing App with OpenCV (2019) — [Link](https://github.com/amingolnari/Android-OpenCV )  
-**[04]** High-Resolution Video Processing Using OpenCL and OpenCV (2019) — [Link](https://github.com/amingolnari/OpenCL-Video-Processing )  
-**[05]** Implementation of KMeans algorithm from scratch in Python (2021) — [Link](https://github.com/amingolnari/KMeans-py )  
-**[06]** Implementation of an autoencoder using the recirculation algorithm from scratch (2022) — [Link](https://github.com/amingolnari/Learning-Representations-by-Recirculation )  
-**[07]** Aparat video viewer bot using Python (2022) — [Link](https://github.com/amingolnari/AparatViewerBot )  
+**•** Deep learning course with TensorFlow and Keras (2018) — [Link](https://github.com/amingolnari/Deep-Learning-Course )  
+**•** Image panoramic stitching using OpenCV in C++, Python, and MATLAB (2018) — [Link](https://github.com/amingolnari/Image-Panoramic-Stitching )  
+**•** Android Image Processing App with OpenCV (2019) — [Link](https://github.com/amingolnari/Android-OpenCV )  
+**•** High-Resolution Video Processing Using OpenCL and OpenCV (2019) — [Link](https://github.com/amingolnari/OpenCL-Video-Processing )  
+**•** Implementation of KMeans algorithm from scratch in Python (2021) — [Link](https://github.com/amingolnari/KMeans-py )  
+**•** Implementation of an autoencoder using the recirculation algorithm from scratch (2022) — [Link](https://github.com/amingolnari/Learning-Representations-by-Recirculation )  
+**•** Aparat video viewer bot using Python (2022) — [Link](https://github.com/amingolnari/AparatViewerBot )  
 
 ---
 
@@ -66,7 +66,6 @@ A selection of earlier implementations reflecting versatility across languages, 
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=matlab&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white" />
 </p>
 
 ---
