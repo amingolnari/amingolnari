@@ -30,6 +30,9 @@
 
 ### 🔬 Key Contributions
 
+- **[Driver Behavior Classification (2026)](https://arxiv.org/abs/2605.05120)**  
+  An interpretable and scalable framework for decoding driving behaviors from multimodal physiological signals is proposed in this study.
+
 - **[QiVC-Net (2025)](https://github.com/amingolnari/Demo-QiVC-Net)**  
   A **quantum-inspired variational convolutional layer** that injects structured, geometry-preserving uncertainty via unitary-like rotations, **without extra parameters**. Validated on biosignals, but framework is domain-agnostic.
 
