@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  🎓 Ph.D Student in Computer Science (VinUniversity, Hanoi, Vietnam)<br>
+  🎓 Ph.D. Student in Computer Science (VinUniversity, Hanoi, Vietnam)<br>
   🎓 M.Sc. in Electrical Engineering (Shahrood University of Technology, Shahrood, Iran)<br>
   🔬 Research Interests: Machine/Deep Learning • Signal & Image Processing • Computational Neuroscience • Autonomous
 </p>
