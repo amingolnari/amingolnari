@@ -15,10 +15,10 @@
 
 <h1 align="center">Hi 👋, I'm Amin Golnari</h1>
 
-<h3 align="center">Deep Learning Researcher | Uncertainty-Aware & Structured Neural Architectures | Cross-Domain Applications</h3>
+<h3 align="center">Deep Learning Researcher | Cross-Domain Applications</h3>
 
 <p align="center">
-  Data Scientist with a passion for building robust, expressive deep learning models. My research focuses on uncertainty-aware models and their applications across different domains.
+  Data Scientist with a passion for building robust, expressive deep learning models.
 </p>
 
 <p align="center">
